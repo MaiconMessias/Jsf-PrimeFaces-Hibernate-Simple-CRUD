@@ -21,7 +21,7 @@ This project was created using the <b>[IDE NetBeans 8.2](https://netbeans.org/)<
 
 ------
 
-### **Projet Jsf-PrimeFaces-Hibernate-simple-CRUD**
+### **Project Jsf-PrimeFaces-Hibernate-simple-CRUD**
 This project uses the frameworks <b>[JSF version 2.2](https://docs.oracle.com/cd/E13224_01/wlw/docs103/guide/webapplications/jsf/jsf-app-tutorial/Introduction.html)</b>, <b>[PrimeFaces version 5.0](https://www.primefaces.org/)</b> and <b>[Hibernate 4.2.21 (version of the file core) ](http://hibernate.org/)</b>. It contains the files ManagedBeans and pages .xhtml.
 <p>The project is incomplete and presents only two research screens, however there is some complexity in the overall scope of the project. This project was developed only to place
 in practice the tools cited at the learning level. The project will not work on older browsers such as IE 8.0.</p>
